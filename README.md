@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Engenharia de Software, focado em desenvolvimento .NET 
+Sou um desenvolvedor Full Stack apaixonado por tecnologia, com foco em aplicações web usando as tecnologias React, Node.js e .NET. Tenho ampla experiência como freelancer, trabalhando em projetos desafiadores e entregando soluções inovadoras para clientes. Sou altamente motivado, autodidata e estou sempre em busca de aprimorar minhas habilidades e conhecimentos para oferecer as melhores soluções aos meus clientes. 
 
 
 ## 🌐 Socials:
